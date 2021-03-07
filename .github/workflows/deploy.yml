@@ -29,5 +29,5 @@ jobs:
           user_email: farmerfield@gmail.com
           publish_branch: gh-pages
           cname: ﻿www.fonogram.nu
-	  extended: true
+	  #extended: true
 
