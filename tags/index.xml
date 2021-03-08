@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Musikbloggen fonogram</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Musikbloggen fonogram</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>se</language>
+    <lastBuildDate>Sat, 27 Feb 2021 20:12:49 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bandet</title>
+      <link>/tags/bandet/</link>
+      <pubDate>Sat, 27 Feb 2021 20:12:49 +0100</pubDate>
+      
+      <guid>/tags/bandet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ever</title>
+      <link>/tags/ever/</link>
+      <pubDate>Sat, 27 Feb 2021 20:12:49 +0100</pubDate>
+      
+      <guid>/tags/ever/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recension</title>
+      <link>/tags/recension/</link>
+      <pubDate>Sat, 27 Feb 2021 20:12:49 +0100</pubDate>
+      
+      <guid>/tags/recension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>värsta</title>
+      <link>/tags/v%C3%A4rsta/</link>
+      <pubDate>Sat, 27 Feb 2021 20:12:49 +0100</pubDate>
+      
+      <guid>/tags/v%C3%A4rsta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

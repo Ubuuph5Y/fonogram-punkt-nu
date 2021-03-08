@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/about-hugo/</loc>
+    <lastmod>2021-02-28T10:14:03+01:00</lastmod>
+  </url><url>
+    <loc>/tags/bandet/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url><url>
+    <loc>/tags/ever/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url><url>
+    <loc>/posts/first_post/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url><url>
+    <loc>/tags/recension/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url><url>
+    <loc>/tags/v%C3%A4rsta/</loc>
+    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+  </url>
+</urlset>
