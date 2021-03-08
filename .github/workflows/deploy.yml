@@ -1,25 +1,28 @@
-name: CI
-on: push
+name: github pages
+
+on:
+  push:
+    branches:
+      - main  # Set a branch name to trigger deployment
+
 jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - name: Git checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Update theme
-        run: git submodule update --init --recursive
-
-      - name: Setup hugo
+      - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          hugo-version: 'latest'
 
       - name: Build
         run: hugo --minify
-        run: hugo
 
-      - name: Deploy
+- name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{secrets.ACTIONS_DEPLOY_KEY}}
@@ -27,4 +30,5 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           cname: www.fonogram.nu
+
 
