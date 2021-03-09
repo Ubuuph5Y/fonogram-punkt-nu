@@ -29,6 +29,6 @@ jobs:
           external_repository: Ubuuph5Y/fonogram-punkt-nu
           publish_dir: ./public
           publish_branch: gh-pages
-          cname: fonogram.nu
+          cname: www.fonogram.nu
 
 
