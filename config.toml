@@ -1,4 +1,4 @@
-baseURL = "https://www.fonogram.nu"
+baseURL = "www.fonogram.nu"
 languageCode = "se"
 defaultContentLanguage = "se"
 title = "Musikbloggen fonogram"
