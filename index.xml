@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musikbloggen fonogram</title>
-    <link>/</link>
+    <link>https://www.fonogram.nu/</link>
     <description>Recent content on Musikbloggen fonogram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>se</language>
-    <lastBuildDate>Sat, 27 Feb 2021 20:12:49 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Feb 2021 20:12:49 +0100</lastBuildDate><atom:link href="https://www.fonogram.nu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about-hugo/</link>
+      <link>https://www.fonogram.nu/about-hugo/</link>
       <pubDate>Sun, 28 Feb 2021 10:14:03 +0100</pubDate>
       
-      <guid>/about-hugo/</guid>
+      <guid>https://www.fonogram.nu/about-hugo/</guid>
       <description>TL;DR:Musikbloggen fonogram.nu kommer främst att skriva om välmastrad musik som finns utgiven på skiva och som finns i samlingen. Fokus kommer att vara på indie och svensk indie. Helst ska musiken finnas utgiven på vinylskiva men musik på cd-skiva går också bra. Musik som levereras i strömmade tjänster är ett utmärkt sätt att upptäcka nya artister men bloggen kommer framförallt att skriva om musik utgiven på ett fysiskt format.
  Musikbloggen fonogram.</description>
     </item>
     
     <item>
       <title>Första inlägget i testbloggen</title>
-      <link>/posts/first_post/</link>
+      <link>https://www.fonogram.nu/posts/first_post/</link>
       <pubDate>Sat, 27 Feb 2021 20:12:49 +0100</pubDate>
       
-      <guid>/posts/first_post/</guid>
+      <guid>https://www.fonogram.nu/posts/first_post/</guid>
       <description>Bandet X levererar örongodis rakt ur ur högtalarna
 Bacon ipsum dolor amet t-bone fatback venison, shoulder meatloaf ham hock bresaola brisket strip steak tri-tip biltong. Beef beef ribs landjaeger, pork belly tail shankle pancetta sirloin capicola short ribs. Cupim chicken burgdoggen corned beef beef ribs, turducken pork chop tongue pancetta tail. Beef ribs ribeye sirloin meatloaf, ham hock capicola picanha pork loin. Ground round drumstick kevin tri-tip cow pork loin ribeye boudin pig short ribs meatloaf swine.</description>
     </item>
