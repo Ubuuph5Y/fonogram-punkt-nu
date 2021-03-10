@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.fonogram.nu/about-hugo/</loc>
+    <loc>/about-hugo/</loc>
     <lastmod>2021-02-28T10:14:03+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/bandet/</loc>
+    <loc>/tags/bandet/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/ever/</loc>
+    <loc>/tags/ever/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/posts/first_post/</loc>
+    <loc>/posts/first_post/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/</loc>
+    <loc>/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/recension/</loc>
+    <loc>/tags/recension/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/v%C3%A4rsta/</loc>
+    <loc>/tags/v%C3%A4rsta/</loc>
     <lastmod>2021-02-27T20:12:49+01:00</lastmod>
   </url>
 </urlset>
