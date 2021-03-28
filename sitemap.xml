@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.fonogram.nu/about-hugo/</loc>
-    <lastmod>2021-02-28T10:14:03+01:00</lastmod>
+    <loc>https://www.fonogram.nu/tags/g%C3%B6teborg/</loc>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/bandet/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+    <loc>https://www.fonogram.nu/tags/indie/</loc>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/ever/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+    <loc>https://www.fonogram.nu/tags/indie-rock/</loc>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/posts/first_post/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+    <loc>https://www.fonogram.nu/tags/lo-fi/</loc>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
   </url><url>
     <loc>https://www.fonogram.nu/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
+  </url><url>
+    <loc>https://www.fonogram.nu/posts/pale-honey/</loc>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
+  </url><url>
+    <loc>https://www.fonogram.nu/tags/pale-honey/</loc>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
   </url><url>
     <loc>https://www.fonogram.nu/posts/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fonogram.nu/tags/recension/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
   </url><url>
     <loc>https://www.fonogram.nu/tags/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+    <lastmod>2021-03-28T15:30:12+02:00</lastmod>
   </url><url>
-    <loc>https://www.fonogram.nu/tags/v%C3%A4rsta/</loc>
-    <lastmod>2021-02-27T20:12:49+01:00</lastmod>
+    <loc>https://www.fonogram.nu/about-hugo/</loc>
+    <lastmod>2021-02-28T10:14:03+01:00</lastmod>
   </url>
 </urlset>

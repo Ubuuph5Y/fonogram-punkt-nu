@@ -6,7 +6,18 @@
     <description>Recent content on Musikbloggen fonogram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>se</language>
-    <lastBuildDate>Sat, 27 Feb 2021 20:12:49 +0100</lastBuildDate><atom:link href="https://www.fonogram.nu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 15:30:12 +0200</lastBuildDate><atom:link href="https://www.fonogram.nu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pale Honey</title>
+      <link>https://www.fonogram.nu/posts/pale-honey/</link>
+      <pubDate>Sun, 28 Mar 2021 15:30:12 +0200</pubDate>
+      
+      <guid>https://www.fonogram.nu/posts/pale-honey/</guid>
+      <description>Slagfärdig minimal lo-fi som tar fajten med egen musikalisk utveckling
+En kväll tidigt en höst gick jag på en spelning med The Hinds som ägde rum i den fina lokalen som ligger högst upp i Medborgarhuset. Spelningen var sponsrad av en numera nedlagd musiktidning och omslaget pryddes av The Hinds.
+Stockholm hade drabbats av en tidig snöstorm. Och många av stadens invånare hade inte hunnit byta ut lågskor mot vinterskor. Jag övervägde att hålla mig hemma eftersom Gatukontoret inte upphandlat snöröjning förrän i November.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://www.fonogram.nu/about-hugo/</link>
@@ -15,16 +26,6 @@
       <guid>https://www.fonogram.nu/about-hugo/</guid>
       <description>TL;DR:Musikbloggen fonogram.nu kommer främst att skriva om välmastrad musik inom indie och svensk indie, och om musik som finns utgiven på skiva och som finns i samlingen. Musiken ska helst vara utgiven på vinylskiva eller cd-skiva eftersom bloggen främjar det fysiska formatet.
  Musikbloggen fonogram.nu är berättelsen om musikaliska upplevelser och kuratering av en skivsamling. Fonogram.nu kommer främst att skriva om indiemusik eller närliggande genrer, och vill ägna sig åt att upptäcka svenska indieband.</description>
-    </item>
-    
-    <item>
-      <title>Första inlägget i testbloggen</title>
-      <link>https://www.fonogram.nu/posts/first_post/</link>
-      <pubDate>Sat, 27 Feb 2021 20:12:49 +0100</pubDate>
-      
-      <guid>https://www.fonogram.nu/posts/first_post/</guid>
-      <description>Bandet X levererar örongodis rakt ur ur högtalarna
-Bacon ipsum dolor amet t-bone fatback venison, shoulder meatloaf ham hock bresaola brisket strip steak tri-tip biltong. Beef beef ribs landjaeger, pork belly tail shankle pancetta sirloin capicola short ribs. Cupim chicken burgdoggen corned beef beef ribs, turducken pork chop tongue pancetta tail. Beef ribs ribeye sirloin meatloaf, ham hock capicola picanha pork loin. Ground round drumstick kevin tri-tip cow pork loin ribeye boudin pig short ribs meatloaf swine.</description>
     </item>
     
   </channel>
